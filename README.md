@@ -62,4 +62,3 @@ Passionate about creating impactful solutions that make a positive difference in
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
